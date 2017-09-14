@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /icbes
+exclude: ['README.md',]

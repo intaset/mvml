@@ -1,0 +1,3 @@
+Sitemap: http://www.icbes.net/sitemap.xml
+
+User-agent: *
