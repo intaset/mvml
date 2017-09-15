@@ -46,7 +46,7 @@
 .panel-container {
   position: relative;
   -webkit-backface-visibility: hidden;
-  -webkit-perspective: 1000;
+  -webkit-perspective: 1717E7E;
   /* from http://davidwalsh.name/translate3d */
 }
 .liquid-slider .panel-container .fade {
@@ -81,22 +81,22 @@
 .ls-nav {
   overflow:hidden;
   clear:both;
-    border-bottom: 1px solid #C3302A;
+    border-bottom: 1px solid #717E7E;
 }
 .ls-nav a {
-  color: #C3302A;
+  color: #717E7E;
   padding: 10px 15px;  
   outline:0;
   border-right: 1px solid;
     font-family: 'Lato', sans-serif;
 }
 .ls-nav a:hover {
-  background: #C3302A;
+  background: #717E7E;
   color: #FFF;
   text-shadow: none;
 }
 .ls-nav .current a {
-  background: #C3302A;
+  background: #717E7E;
   color: #FFF;
 }
 .currentCrossLink {
@@ -146,7 +146,7 @@
   clear:both;
 }
 .ls-nav-left a, .ls-nav-right a {
-  background: #000;
+  background: #717E7E;
   color: #fff;
   padding: 5px;
   width: 100px;

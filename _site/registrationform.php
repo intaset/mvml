@@ -79,7 +79,7 @@ if ((($_FILES["file"]["type"] == "image/gif")
 
 || ($_FILES["file"]["type"] == "image/tif"))
 
-&& ($_FILES["file"]["size"] < 20000000))
+&& ($_FILES["file"]["size"] < 2717E7E717E7E0))
 
   {
 

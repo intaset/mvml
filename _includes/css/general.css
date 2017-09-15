@@ -99,7 +99,7 @@ font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 font-size: 1.5em;
 margin: 0;
-color: #C7D7DB;
+color: #717E7E;
 }
 
 .body {
@@ -175,7 +175,7 @@ blockquote {
 }
 
 .content tr {
-  border-bottom: 1px solid #717E7E;
+  border-bottom: 1px solid #C7D7DB;
 }
 
 th {
@@ -185,7 +185,7 @@ th {
 .date-title {
   display: block;
   padding: 0.5em;
-  background-color: #717E7E;
+  background-color: #C7D7DB;
   color: #FFF;
 }
 
@@ -219,12 +219,12 @@ th {
 	text-align: right;
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #C7D7DB;
+	color: #717E7E;
 	transition: all 0.8s ease;
 }
 
 .top:hover {
-	color: #717E7E;
+	color: #C7D7DB;
 }
 
 .top:before {
@@ -251,7 +251,7 @@ th {
 }
 
 .keynotes {
-	border-bottom: #C7D7DB 1px solid;
+	border-bottom: #717E7E 1px solid;
 	text-align: left;
 }
 
@@ -260,7 +260,7 @@ th {
 }
 
 .keynotes a {
-	color: #717E7E;
+	color: #C7D7DB;
 	text-decoration: none;
 	border-bottom: 1px solid;
 	transition: all 0.3s linear;
@@ -301,7 +301,7 @@ th {
 }
 
 .pdf {
-	color: #717E7E;
+	color: #C7D7DB;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -309,7 +309,7 @@ th {
 }
 
 .pdf:hover {
-	color: #C7D7DB;
+	color: #717E7E;
 }
 
 .pdf img {
@@ -321,7 +321,7 @@ th {
 }
 
 .keynote-info .top a {
-	color: #C7D7DB;
+	color: #717E7E;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -329,11 +329,11 @@ th {
 }
 
 .keynote-info .top a:hover {
-	color: #717E7E;
+	color: #C7D7DB;
 }
 
 .border {
-	border-bottom: #C7D7DB 1px solid;
+	border-bottom: #717E7E 1px solid;
 }
 
 .keynoteIndex {
@@ -359,7 +359,7 @@ h1 {
 	padding: 0.5em 0.5em 1em;
     font-size: 1.25em!important;
 	margin: 0!important;
-	color: #717E7E;
+	color: #C7D7DB;
 }
 
 .subhead {
@@ -369,7 +369,7 @@ h1 {
   padding: 0 1em 1em;
   font-size: 1em!important;
   margin: 0;
-  color: #717E7E;
+  color: #C7D7DB;
   letter-spacing: 4px;
 }
 
@@ -380,9 +380,9 @@ h1 {
 }
 
 .bg-link {
-	border: 1px solid #C7D7DB;
+	border: 1px solid #717E7E;
 	padding: 0.5em;
-	color: #C7D7DB;
+	color: #fff;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -391,11 +391,12 @@ h1 {
 	display: block;
 	margin: 1em;
 	transition: all 0.8s ease;
+	background-color: #717E7E;
 }
 
 .bg-link:hover {
-	background-color: #717E7E;
-	border: 1px solid #717E7E;
+	background-color: #C7D7DB;
+	border: 1px solid #C7D7DB;
 	color: #FFF;
 }
 /* Side-bar Menu */
@@ -404,7 +405,7 @@ h1 {
 	padding: 0px; 
 }
 .side-bar-menu{
-	border: 1px solid  #C7D7DB;
+	border: 1px solid  #717E7E;
 	border-bottom:none;
 	list-style-type: none;
 	margin:0px;
@@ -417,7 +418,7 @@ h1 {
 .side-bar-menu a {
 	padding: 0.5em;
 	margin:0;
-	color: #C7D7DB;
+	color: #717E7E;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -426,7 +427,7 @@ h1 {
 	display: block;
 	width: 100%;
 	text-decoration: none;
-	border-bottom: 1px solid  #C7D7DB;
+	border-bottom: 1px solid  #717E7E;
 	transition: all 0.8s ease;
 }
 .side-bar-menu a:hover {
@@ -439,7 +440,7 @@ h1 {
 	padding: 0px; 
 }
 .side-bar-menu{
-	border: 1px solid  #C7D7DB;
+	border: 1px solid  #717E7E;
 	border-bottom:none;
 	list-style-type: none;
 	margin:0px;
@@ -452,7 +453,7 @@ h1 {
 .side-bar-menu a {
 	padding: 0.5em;
 	margin:0;
-	color: #C7D7DB;
+	color: #717E7E;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -461,7 +462,7 @@ h1 {
 	display: block;
 	width: 100%;
 	text-decoration: none;
-	border-bottom: 1px solid  #C7D7DB;
+	border-bottom: 1px solid  #717E7E;
 	transition: all 0.8s ease;
 }
 .side-bar-menu a:hover {
@@ -471,7 +472,7 @@ h1 {
 
 .dot {
 	display: none;
-	color: #717E7E;
+	color: #C7D7DB;
 	font-size: 2em;
 	vertical-align: middle;
 	margin: 0;
@@ -500,7 +501,7 @@ nav#slide-menu {
 	width: 100%;
 	max-width: 141px;
 	height: 100%;
-	  background-color: #C7D7DB;
+	  background-color: #717E7E;
 	overflow-x: hidden;
 overflow-y: scroll;
   z-index: 99999;
@@ -593,7 +594,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #717E7E;
+			color: #C7D7DB;
 			font-family: "icomoon";
 			font-style: normal;
 			font-size: 1.2em;
@@ -612,7 +613,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:before { 
-			color: #C7D7DB;
+			color: #717E7E;
 		}
 
 		.menu-active .menu-trigger:after { 
@@ -620,7 +621,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #C7D7DB;
+			color: #717E7E;
 			background-color: #FFF;
 			font-family: "icomoon";
 			font-style: normal;
@@ -636,7 +637,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:after {
-			color: #717E7E;
+			color: #C7D7DB;
 		}
 
 body.menu-active div#content { right: 141px;}
@@ -655,7 +656,7 @@ padding: 0;
 }
 
 .searchbox .body {
-  color: #717E7E;
+  color: #C7D7DB;
   text-align: center;
   padding: 3px 0;
 }
@@ -694,7 +695,7 @@ margin-bottom: 0px!important;
 }
 
 .gsst_a .gscb_a {
-color: #717E7E!important;
+color: #C7D7DB!important;
 cursor: pointer;
 }
 
@@ -726,7 +727,7 @@ border-radius: 0!important;
 -moz-border-radius: 0!important;
 -webkit-border-radius: 0!important;
 border-color: none!important;
-background-color: #C7D7DB!important;
+background-color: #717E7E!important;
 background-image: none!important;
 filter: none!important;
 }
@@ -761,22 +762,22 @@ display: none;
 }
 
 .gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {
-    color: #C7D7DB!important;
+    color: #717E7E!important;
 }
 
 .gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {
-    color: #C7D7DB!important;
+    color: #717E7E!important;
 }
 
 .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
     border-color: #FFF;
     background-color: #FFFFFF!important;
-    color: #C7D7DB!important;
+    color: #717E7E!important;
 }
 
 /*UPCOMING DATES*/
 .date {
-	background-color: #C7D7DB;
+	background-color: #717E7E;
   padding: 0.5em;
   color: #FFF;
   font-family: 'Lato', sans-serif;
@@ -789,7 +790,7 @@ display: none;
 }
 
 .past-text {
-	color: #C7D7DB;
+	color: #717E7E;
 }
 
 .events {
@@ -833,7 +834,7 @@ footer form {
 
 footer input[type="submit"], footer input[type="reset"] {
   background-color: #FFF;
-  color: #717E7E;
+  color: #C7D7DB;
 }
 
 footer input[type="submit"]:hover, footer input[type="reset"]:hover {
@@ -863,14 +864,14 @@ textarea {
 }
 
 .copyright a {
-	color: #717E7E;
+	color: #C7D7DB;
 	text-transform: uppercase;
 	text-decoration: none;
 	transition: all 0.8s ease;
 }
 
 .copyright a:hover {
-	color: #C7D7DB;
+	color: #717E7E;
 	border-bottom: 1px solid;
 }
 
@@ -898,7 +899,7 @@ textarea {
 /* ---------------- ---------------------- */
 /* ACCOMMODATION */
 .ls-select-box:hover {
-	background-color: #C7D7DB;
+	background-color: #717E7E;
 	color: #FFF;
 }
 
@@ -991,7 +992,7 @@ textarea {
 input[type="button"], input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
-  background-color: #717E7E;
+  background-color: #C7D7DB;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   color: #FFF;
@@ -1006,7 +1007,7 @@ input[type="button"], input[type="reset"], input[type="submit"] {
 }
 
 input[type="reset"]:hover, input[type="submit"]:hover {
-  background-color: #C7D7DB;
+  background-color: #717E7E;
 }
 
 .paypal table {
@@ -1030,12 +1031,12 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 }
 
 .accommodation td {
-	border: 1px solid #717E7E;
+	border: 1px solid #C7D7DB;
 	padding: 0 1em;
 }
 
 .bottom-border {
-	border-bottom: 1px solid #C7D7DB;
+	border-bottom: 1px solid #717E7E;
 }
 
 /* Contact Us */
@@ -1373,7 +1374,7 @@ footer {
 
 	.cbp-af-inner nav .dot {
   		font-size: 1em;
-  		color: #C7D7DB;
+  		color: #717E7E;
   		padding: 0 0.4em;
 	}
 
@@ -1383,7 +1384,7 @@ footer {
 	}
 
 	.cbp-af-header nav a:hover {
-	background-color: #C7D7DB;
+	background-color: #717E7E;
 	padding: 1em 0.1em;
 	color: #FFF!important;
 	}
@@ -1405,7 +1406,7 @@ h1 {
 
 .subhead {
   padding: 0 1em 1.5em;
-  color: #C7D7DB;
+  color: #717E7E;
 }
 
 .main-content {
@@ -1434,8 +1435,8 @@ h2 {
   display: table-cell;
   padding: 0.5em;
   background-color: transparent;
-  color: #000;
-  border-right: 1px solid #717E7E;
+  color: #717E7E;
+  border-right: 1px solid #C7D7DB;
     font-weight: 500;
 }
 
