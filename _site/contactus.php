@@ -220,7 +220,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
      <!-- <div class="past">Dec. 1, 2016</div> -->
-     TBA
+     Feb. 9, 18
   </div>
 </div>
 
@@ -235,8 +235,8 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 15, 2018</div> -->
-    TBA
+    <!-- <div class="past">Feb. 15, 2017</div> -->
+    Mar. 1, 2018
   </div>
 </div>
 
@@ -251,8 +251,8 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Mar. 1, 2018</div> -->
-    TBA
+    <!-- <div class="past">Mar. 1, 2017</div> -->
+    Apr. 20, 2018
   </div>
 </div>
 
