@@ -43,9 +43,13 @@ $message = 'Dear Colleague,
 
 Thank you for registering for MVML 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@mvml.org. You can find the copyright form here: www.2019.mvml.org/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your final version (.doc or .docx format) and a signed copyright form via email to info@mvml.org. You can find the copyright form here: https://mvml.org/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@mvml.org mentioning the correct information. Please note that you SHOULD NOT refill the form.
+
+We are pleased to announce that the MVML 2019 be held at the Hotel Real Palácio. Additionally, we have collaborated with the hotel to offer our attendees a reduced 
+rate on their accommodations! This discounted rate is only valid until May 12, 2019. Please view the booking form here: https://mvml.org/RealPalacioLisbonBookingForm.pdf
+
 
 ---
 
